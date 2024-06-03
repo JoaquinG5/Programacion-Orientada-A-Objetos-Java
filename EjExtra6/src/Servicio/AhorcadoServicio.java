@@ -180,18 +180,12 @@ while(a.getJugadasMaximas()!=contadorjugadas){
          int intentos=(a.jugadasMaximas-contadorjugadas);
          System.out.println(intentos);
 
-               
-                
-   
-                
        }
         
-             
-    public void juego(AhorcadoServicio b){
-
-       
-   
-              
+           
+     
+   public void Juego(AhorcadoServicio b){
+         
     b.crearJuego();
     b.longitud();
     b.buscar();

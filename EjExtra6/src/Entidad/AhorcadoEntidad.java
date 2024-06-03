@@ -17,9 +17,7 @@ busque una letra que no esté, se le restará uno a sus oportunidades.
 previamente mencionados e informará cuando el usuario descubra toda la palabra o
 se quede sin intentos. Este método se llamará en el main.
 
-
-
-
+ 
  */
 package Entidad;
 
@@ -77,7 +75,7 @@ public class AhorcadoEntidad {
 
     @Override
     public String toString() {
-        return "AhorcadoEntidad{" + "palabra=" + palabra + ", palabraABuscar=" + palabraABuscar + ", letrasEncontradas=" + letrasEncontradas + ", jugadasMaximas=" + jugadasMaximas + '}';
+       return "AhorcadoEntidad{" + "palabra=" + palabra + ", palabraABuscar=" + palabraABuscar + ", letrasEncontradas=" + letrasEncontradas + ", jugadasMaximas=" + jugadasMaximas + '}';
     }
 
    

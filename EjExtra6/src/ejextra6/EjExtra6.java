@@ -19,7 +19,7 @@ public class EjExtra6 {
         
 
       
-      b.juego(b);
+      b.Juego(b);
    
       
       
